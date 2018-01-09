@@ -1,11 +1,5 @@
 <!DOCTYPE html>
-<html>
-<h1>Bem vindo!</h1>
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
+<? include("cabecalho.php")?>
+        <h1>Bem vindo!</h1>
 
-  </body>
-</html>
+<? include("rodape.php")?>
